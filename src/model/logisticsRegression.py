@@ -22,4 +22,8 @@ class logiticsRgression():
 
 
 
-        def
+        def lossfunction(self,y_t,y_p,name = 'cross_entropy'):
+
+            if name == 'cross_entropy':
+                loss = 0
+
