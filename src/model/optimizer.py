@@ -9,4 +9,4 @@ class optimizer():
         pass
 
 
-    def sgd(self,a):
+
